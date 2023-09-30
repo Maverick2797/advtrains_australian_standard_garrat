@@ -1,7 +1,7 @@
 # advtrains_australian_standard_garrat
 Australian Standard Garrat (ASG) locomotive for the Minetest mod Advanced Trains
 
-This repo mainly servs as a way to put the WIP model up for adoption after I ran out of patience with Blender. The model may or may not be refined in the future if I decide to give it another go, so take it as it is.
+This repo mainly servs as a way to put the WIP model up for adoption after I ran out of patience with Blender. The model may or may not be refined in the future if I decide to give it another go, so take it as it is. Original model made with Google SketchUp, but I've included a .dae export too to import into Blender.
 
 Below are my reference sources:
 
